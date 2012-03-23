@@ -1,0 +1,19 @@
+Usage:
+    cssrb
+        shows usage information
+    cssrb -h
+    cssrb --help
+        shows usage information
+    cssrb -v
+    cssrb --version
+        shows the version number
+
+Использование:
+    cssrb
+        показывает этот текст
+    cssrb -h
+    cssrb --help
+        показывает этот текст
+    cssrb -v
+    cssrb --version
+        показывает номер версии

@@ -1,0 +1,28 @@
+{
+  "name": "cssrb",
+  "version": "0.0.0",
+  "homepage": "http://github.com/afelix/cssrb",
+  "author": "Sergey Kryzhanovsky <skryzhanovsky@ya.ru> (http://github.com/afelix)",
+  "maintainers": [
+    "Sergey Kryzhanovsky <skryzhanovsky@ya.ru> (http://github.com/afelix)"
+  ],
+  "bugs": {
+    "url": "http://github.com/afelix/cssrb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/afelix/cssrb.git"
+  },
+  "main": "./lib/cssrb",
+  "bin": {
+      "cssirb": "./bin/cssrb"
+  },
+  "engines": {
+    "node": "0.6 | 0.7"
+  },
+  "dependencies": {
+    "cssp": "1.0.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
