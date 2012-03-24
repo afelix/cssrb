@@ -1,6 +1,6 @@
 {
   "name": "cssrb",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "http://github.com/afelix/cssrb",
   "author": "Sergey Kryzhanovsky <skryzhanovsky@ya.ru> (http://github.com/afelix)",
   "maintainers": [
@@ -15,7 +15,7 @@
   },
   "main": "./lib/cssrb",
   "bin": {
-      "cssrb": "./bin/cssrb"
+    "cssrb": "./bin/cssrb"
   },
   "engines": {
     "node": "0.6 | 0.7"
