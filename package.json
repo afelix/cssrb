@@ -15,7 +15,7 @@
   },
   "main": "./lib/cssrb",
   "bin": {
-      "cssirb": "./bin/cssrb"
+      "cssrb": "./bin/cssrb"
   },
   "engines": {
     "node": "0.6 | 0.7"
