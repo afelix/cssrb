@@ -1,9 +1,25 @@
+Sample:
+    cssrb -c .cssrb.js sample.css _sample.css -cp
+
 Usage:
     cssrb
         shows usage information
     cssrb -h
     cssrb --help
         shows usage information
+    cssrb -c <config_path>
+    cssrb --config <config_path>
+        set config file path
+    cssrb -cp
+    cssrb --copy
+        copy files
+    cssrb -mv
+    cssrb --move
+        move files
+    csso <in_filename> <out_filename>
+    csso -i <in_filename> -o <out_filename>
+    csso --input <in_filename> --output <out_filename>
+        rebase URLs in <in_filename> and outputs the result to <out_filename>
     cssrb -v
     cssrb --version
         shows the version number
@@ -14,6 +30,19 @@ Usage:
     cssrb -h
     cssrb --help
         показывает этот текст
+    cssrb -c <config_path>
+    cssrb --config <config_path>
+        указывает путь к конфигурационному файлу
+    cssrb -cp
+    cssrb --copy
+        копировать файлы
+    cssrb -mv
+    cssrb --move
+        перемещать файлы
+    csso <in_имя_файла> <out_имя_файла>
+    csso -i <in_имя_файла> -o <out_имя_файла>
+    csso --input <in_имя_файла> --output <out_имя_файла>
+        переименовывает URL'ы в <in_имя_файла> и записывает результат в <out_имя_файла>
     cssrb -v
     cssrb --version
         показывает номер версии
