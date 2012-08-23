@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/afelix/cssrb.png)](http://travis-ci.org/afelix/cssrb)
 **CSSRB** переименовывает пути к файлам в `url()`, а также копирует / перемещает эти файлы.
 
 ## Установка
